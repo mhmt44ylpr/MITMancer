@@ -1,6 +1,7 @@
 # MITMancer 🕵️‍♂️
 
 MITMancer, Python ve Scapy kullanılarak geliştirilmiş, terminal tabanlı bir **Man-in-the-Middle (MITM)** saldırı aracıdır. Hedef cihazlar ve gateway arasında ARP poisoning yaparak veri trafiğini izleyebilir, yönlendirebilir ve analiz edebilirsiniz.
+![image](https://github.com/user-attachments/assets/e003b134-0672-401f-8201-197eaa539aad)
 
 ## 🚀 Özellikler
 
